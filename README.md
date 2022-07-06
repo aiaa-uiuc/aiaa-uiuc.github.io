@@ -1,1 +1,1 @@
-# [AIAA's Website](aiaa-uiuc.github.io)
+# [AIAA's Website](http://aiaa-uiuc.github.io.)
