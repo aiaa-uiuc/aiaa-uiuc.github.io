@@ -40278,6 +40278,97 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
+ .u-header {
+  background-image: none;
+}
+
+.u-header .u-sheet-1 {
+  min-height: 173px;
+}
+
+.u-header .u-image-1 {
+  width: 452px;
+  height: 125px;
+  margin: 23px auto 0 1px;
+}
+
+.u-header .u-logo-image-1 {
+  width: 100%;
+  height: 100%;
+}
+
+.u-header .u-menu-1 {
+  margin: -58px 0 47px auto;
+}
+
+.u-header .u-nav-1 {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-header .u-nav-3 {
+  font-size: 1.25rem;
+}
+@media (max-width: 1199px) {
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -49px;
+    margin-bottom: 39px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+  }
+}
+
+
+
+ .u-footer {
+  background-image: none;
+}
+
+.u-footer .u-sheet-1 {
+  min-height: 120px;
+}
+
+.u-footer .u-social-icons-1 {
+  height: 52px;
+  min-height: 16px;
+  width: 298px;
+  min-width: 120px;
+  margin: 34px auto;
+}
+
+.u-footer .u-icon-1 {
+  height: 52px;
+}
+
+.u-footer .u-icon-2 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
+}
+
+.u-footer .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-footer .u-icon-4 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-footer .u-icon-5 {
+  height: 52px;
+}
+@media (max-width: 1199px) {
+  .u-footer .u-social-icons-1 {
+    width: 300px;
+  }
+}
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
